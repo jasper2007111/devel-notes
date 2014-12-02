@@ -28,10 +28,29 @@ git add learningGit.md
 ```
 git -commit -m "your commit"
 ```
+
 推送到远程服务器
 
 ```
 git push origin master
+```
+
+取得并合并本地库
+
+```
+git pull
+```
+
+更新远程库到本地，不合并
+
+```
+git fetch
+```
+
+合并本地库
+
+```
+git merge
 ```
 
 有时候本地的无法通过上面的推送，可以使用这个强制推送。
@@ -39,6 +58,7 @@ git push origin master
 ```
 git push f
 ```
+
 查看当前的状态
 
 ```
