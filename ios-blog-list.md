@@ -11,3 +11,13 @@
 * [一座城池](http://www.cnblogs.com/wendingding/)
 
 * [core-plot](http://blog.csdn.net/feixiang_song/article/details/37695231)
+
+* [iwangke](http://www.iwangke.me/)
+
+* [Kingiol Ding](http://blog.kingiol.com/)
+
+* [Lanvige's Zen Carden](http://lanvige.github.io/)
+
+* [iloss](http://iloss.me/)
+
+* [saick](http://blog.saick.net/)
