@@ -21,3 +21,5 @@
 * [iloss](http://iloss.me/)
 
 * [saick](http://blog.saick.net/)
+
+* [iMinjie](http://www.jianshu.com/users/ezGoqL/latest_articles)
